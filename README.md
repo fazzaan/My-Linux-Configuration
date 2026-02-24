@@ -13,3 +13,11 @@ They can be imported using `dconf load /org/path/ < file.dconf`.
 
 .gsettings files were made using `gsettings get org.path > file.gsetting`.  
 They can be imported using `gsettings set org.path key-name "$(cat file.gsetting)"`.
+
+
+## Templates
+Contains template files for populating your file manager's "new file" or "create document" context menu.  
+
+Nemo manages to include mimetype icons in its menu, which is nice.  
+
+Not sure why a few basic ones aren't included in a default Linux installation. Also I've never seen this documented in an obvious place before, so unless you go googling for it, you probably don't know about it.  
