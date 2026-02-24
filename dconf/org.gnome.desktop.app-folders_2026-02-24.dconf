@@ -1,0 +1,157 @@
+[/]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus', 'ca16c1fc-34e5-449f-9c05-aaa97fe38498', '33b15871-5908-48f9-9bf4-1d7e62ad43ea', '4d077f6d-ad09-4854-b710-051203d677d7', '3f41f4be-3773-4814-9337-fdfcdef4b908', 'ee8fa8ba-6300-44e3-8bff-40399ac78364', '702dd7de-d897-4c26-9fab-480eb3f2c4b4', '2f728043-4f90-4090-9bb7-b78f1382ec53', 'eef144f9-b45a-48d8-92c5-145c8e55e4b8', 'b0ed4d8c-33c3-4898-b1ff-68c41af3fdcc', 'fc8f9ffc-520a-4672-b8be-9779e1cbf3f4', 'b3f78cb5-9b32-476a-a39d-124c3e2aac10', '6063a681-9b79-4427-a4e2-2e0d645290c6', 'c40af122-4da6-4675-9e9a-768cc16702b5', '805648e4-9c3f-4268-be28-27a40a3c9a90', 'c855c72e-5173-469d-9b1b-73ef6cef2da0', '39f90ec5-8ee9-4931-86a1-198ae559d2d4', 'a4d75153-8031-4574-9c85-3e14fcd3b385', '9a476d5b-3cc1-4128-b928-0b751207afcf', 'cf5d6e26-db86-4f14-a91b-bdce4af61c9e', '77c8ecf8-4212-4551-961d-03fd017c2535', '90ff350c-e9a0-4661-b8da-a0b89877c48e', 'e79a2554-5484-4d9f-bbc0-db0f54b4555a', '70185868-6b2d-452b-b011-4f9fbe2159da', '2e1b83ef-9936-440d-b300-75a410e1e080', 'a4146de6-a769-474e-904a-f0dcad5868b3', '5d6bfd7b-3240-4dcb-806c-94be94f23704', '35a17274-7634-436c-bd2a-0283a2ce19f6']
+
+[folders/2e1b83ef-9936-440d-b300-75a410e1e080]
+apps=['org.remmina.Remmina.desktop', 'remote-viewer.desktop', 'NoMachine-base.desktop']
+name='Remote Desktop'
+translate=false
+
+[folders/2f728043-4f90-4090-9bb7-b78f1382ec53]
+apps=['com.usebottles.bottles.desktop', 'wine-browsedrive.desktop', 'wine-winecfg.desktop', 'wine-notepad.desktop', 'protontricks.desktop', 'net.lutris.Lutris.desktop', 'winetricks.desktop', 'wine-uninstaller.desktop', 'wine-Programs-Microsoft Keyboard Layout Creator 1.4.desktop']
+name='Wine & Proton'
+translate=false
+
+[folders/33b15871-5908-48f9-9bf4-1d7e62ad43ea]
+apps=['org.fcitx.Fcitx5.desktop', 'fcitx5-configtool.desktop', 'org.fcitx.fcitx5-migrator.desktop', 'uim.desktop']
+name='Input Method Tools'
+translate=false
+
+[folders/35a17274-7634-436c-bd2a-0283a2ce19f6]
+apps=['cups.desktop', 'figma-linux.desktop', 'org.gnome.Maps.desktop']
+name='Unused'
+translate=false
+
+[folders/39f90ec5-8ee9-4931-86a1-198ae559d2d4]
+apps=['org.gnome.Boxes.desktop', 'virtualbox.desktop', 'virt-manager.desktop']
+name='Virtual Machines'
+translate=false
+
+[folders/3f41f4be-3773-4814-9337-fdfcdef4b908]
+apps=['garuda-system-maintenance-settings.desktop', 'garuda-rani.desktop', 'garuda-network-assistant.desktop', 'garuda-boot-options.desktop', 'garuda-gamer.desktop']
+name='System Garuda'
+translate=false
+
+[folders/4d077f6d-ad09-4854-b710-051203d677d7]
+apps=['com.github.GradienceTeam.Gradience.desktop', 'kvantummanager.desktop', 'org.gnome.Extensions.desktop', 'org.gnome.tweaks.desktop', 'page.tesk.Refine.desktop', 'ca.desrt.dconf-editor.desktop', 'kbd-layout-viewer5.desktop', 'com.gitlab.cunidev.Gestures.desktop', 'gnome-online-accounts-gtk.desktop']
+name='System User'
+translate=false
+
+[folders/5d6bfd7b-3240-4dcb-806c-94be94f23704]
+apps=['reboot-to-uefi.desktop', 'suspend-then-hibernate.desktop']
+name='Rebooting'
+translate=false
+
+[folders/6063a681-9b79-4427-a4e2-2e0d645290c6]
+apps=['wps-office-prometheus.desktop', 'wps-office-pdf.desktop', 'wps-office-et.desktop', 'wps-office-wpp.desktop', 'wps-office-wps.desktop']
+name='WPS Office'
+translate=false
+
+[folders/70185868-6b2d-452b-b011-4f9fbe2159da]
+apps=['app.drey.Warp.desktop', 'megasync.desktop', 'deluge.desktop', 'org.qbittorrent.qBittorrent.desktop']
+name='File Sharing'
+translate=false
+
+[folders/702dd7de-d897-4c26-9fab-480eb3f2c4b4]
+apps=['Proton Authenticator.desktop', 'proton-pass.desktop', 'org.gnome.seahorse.Application.desktop', 'bitwarden.desktop']
+name='Passwords etc.'
+translate=false
+
+[folders/77c8ecf8-4212-4551-961d-03fd017c2535]
+apps=['org.gnome.NetworkDisplays.desktop', 'mkchromecast.desktop']
+name='Cast screen'
+translate=false
+
+[folders/805648e4-9c3f-4268-be28-27a40a3c9a90]
+apps=['gufw.desktop', 'opensnitch_ui.desktop']
+name='Firewall'
+translate=false
+
+[folders/90ff350c-e9a0-4661-b8da-a0b89877c48e]
+apps=['signal-desktop.desktop', 'brave-khmlcabibblfpfhmkfpaiblbijoggmaa-Default.desktop', 'org.telegram.desktop.desktop']
+name='Messaging'
+translate=false
+
+[folders/9a476d5b-3cc1-4128-b928-0b751207afcf]
+apps=['qtscrcpy.desktop', 'scrcpy.desktop', 'scrcpy-console.desktop', 'droidcam.desktop']
+name='ScrCpy'
+translate=false
+
+[folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[folders/System]
+apps=['org.gnome.SystemMonitor.desktop', 'org.gnome.Firmware.desktop', 'lstopo.desktop', 'gparted.desktop', 'nm-connection-editor.desktop', 'org.gnome.Logs.desktop', 'com.leinardi.gwe.desktop', 'nvidia-settings.desktop', 'htop.desktop', 'mcontrolcenter.desktop', 'ar.com.softwareperonista.Pace.desktop']
+name='System Admin'
+translate=false
+
+[folders/Utilities]
+apps=['org.gnome.Evince.desktop', 'org.gnome.Papers.desktop', 'org.gnome.SimpleScan.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.eog.desktop', 'org.gnome.SoundRecorder.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Characters.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Geary.desktop', 'claws-mail.desktop', 'io.github.vikdevelop.SaveDesktop.desktop', 'org.gnome.Contacts.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.clocks.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.Weather.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[folders/a4146de6-a769-474e-904a-f0dcad5868b3]
+apps=['firedragon.desktop', 'vivaldi-snapshot.desktop']
+name='Other browsers'
+translate=false
+
+[folders/a4d75153-8031-4574-9c85-3e14fcd3b385]
+apps=['org.gnome.Ptyxis.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Console.desktop', 'Alacritty.desktop', 'kitty.desktop', 'uxterm.desktop', 'xterm.desktop']
+name='Terminals'
+translate=false
+
+[folders/b0ed4d8c-33c3-4898-b1ff-68c41af3fdcc]
+apps=['soundconverter.desktop', 'org.gnome.gitlab.YaLTeR.VideoTrimmer.desktop', 'soundwire.desktop', 'com.github.wwmm.easyeffects.desktop', 'org.avidemux.Avidemux.desktop', 'transmageddon.desktop', 'org.pulseaudio.pavucontrol.desktop', 'fr.handbrake.ghb.desktop', 'com.obsproject.Studio.desktop', 'cafe.avery.Delfin.desktop']
+name='Utilities Media'
+translate=false
+
+[folders/b3f78cb5-9b32-476a-a39d-124c3e2aac10]
+apps=['octopi.desktop', 'octopi-cachecleaner.desktop', 'octopi-notifier.desktop', 'octopi-repoeditor.desktop']
+name='Octopi Package Manager'
+translate=false
+
+[folders/c40af122-4da6-4675-9e9a-768cc16702b5]
+apps=['nemo.desktop', 'thunar.desktop', 'thunar-settings.desktop', 'thunar-bulk-rename.desktop']
+name='File browsers'
+translate=false
+
+[folders/c855c72e-5173-469d-9b1b-73ef6cef2da0]
+apps=['blender.desktop', 'net.drawpile.drawpile.desktop', 'com.github.PintaProject.Pinta.desktop', 'brave-jdklklfpinionkgpmghaghehojplfjio-Default.desktop', 'brave-fdcmhpilniahgddihiejniblpanbfbdo-Default.desktop', 'gimp.desktop']
+name='Graphics'
+translate=false
+
+[folders/ca16c1fc-34e5-449f-9c05-aaa97fe38498]
+apps=['libreoffice-calc.desktop', 'libreoffice-math.desktop', 'libreoffice-draw.desktop', 'libreoffice-writer.desktop', 'libreoffice-impress.desktop', 'libreoffice-startcenter.desktop', 'libreoffice-base.desktop']
+name='LibreOffice'
+translate=false
+
+[folders/cf5d6e26-db86-4f14-a91b-bdce4af61c9e]
+apps=['linguist.desktop', 'designer.desktop', 'org.rncbc.qtractor.desktop', 'foot.desktop', 'footclient.desktop', 'foot-server.desktop', 'org.gtk.gtk4.NodeEditor.desktop', 'org.gtk.PrintEditor4.desktop', 'electron36.desktop', 'org.gtk.WidgetFactory4.desktop', 'org.gtk.Demo4.desktop', 'assistant.desktop', 'qdbusviewer.desktop', 'cmake-gui.desktop', 'electron37.desktop']
+name='Random Shit'
+translate=false
+
+[folders/e79a2554-5484-4d9f-bbc0-db0f54b4555a]
+apps=['io.missioncenter.MissionCenter.desktop', 'nvtop.desktop', 'io.github.v81d.Wattage.desktop', 'net.nokyan.Resources.desktop']
+name='System Monitoring'
+translate=false
+
+[folders/ee8fa8ba-6300-44e3-8bff-40399ac78364]
+apps=['org.gnome.Meld.desktop', 'micro.desktop', 'org.gnome.gedit.desktop', 'vim.desktop']
+name='Text editors'
+translate=false
+
+[folders/eef144f9-b45a-48d8-92c5-145c8e55e4b8]
+apps=['org.gnome.Lollypop.desktop', 'mpv.desktop', 'vlc.desktop', 'io.github.diegopvlk.Cine.desktop', 'org.gnome.Showtime.desktop', 'io.github.celluloid_player.Celluloid.desktop', 'org.gnome.Music.desktop']
+name='Media'
+translate=false
+
+[folders/fc8f9ffc-520a-4672-b8be-9779e1cbf3f4]
+apps=['snapper-tools.desktop', 'setup-assistant.desktop', 'btrfs-assistant.desktop', 'org.gnome.DiskUtility.desktop']
+name='Utilities Filesystem'
+translate=false
