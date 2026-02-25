@@ -12,7 +12,7 @@ Contains dconf keys.
 They can be imported using `dconf load /org/path/ < file.dconf`.  
 
 .gsettings files were made using `gsettings get org.path > file.gsetting`.  
-They can be imported using `gsettings set org.path key-name "$(cat file.gsetting)"`.
+They can be imported using `gsettings set org.path key-name "$(cat file.gsetting)"`.  
 
 
 ## Templates
